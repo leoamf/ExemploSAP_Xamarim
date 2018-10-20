@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{19CEB0B8-2F2D-43E9-B8FA-6B91967E9FD2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploSAP_Xamarim/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ExemploSAP_Xamarim/MainPage.xaml.cs" Line="4" Column="13" />
+      <File FileName="ExemploSAP_Xamarim/MainPage.xaml" Line="5" Column="91" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExemploSAP__Xamarim FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ExemploSAP__Xamarim.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D029A314-5281-4523-A8AD-0C159DCC4933" />
+  <MonoDevelop.Ide.ItemProperties.ExemploSAP__Xamarim.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MultiItemStartupConfigurations />
+</Properties>
